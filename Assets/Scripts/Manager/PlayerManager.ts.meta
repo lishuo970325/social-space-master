@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: a1c474f5406e4ff41bd962cb4424e5b7
+importerOverride: ZEPETO.Script.Compiler:ZEPETO.Script:TypescriptAssetImporter
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: -1123457745, guid: 54cf806323ffe4418a4ce4cc63fe6b9d, type: 3}
+  isAssemblyDeclarations: 0
+  assembly: 
+  generateAllTypes: 1
+  types: []
+  generateWrapper: 0
+  overrideWrapperTypes: 0
+  wrapperTypes: []
+  WrapperFilters: []
+  wrapperOutputDirectory: Generated
+  compiledResult: '{"source":"\"use strict\";\r\nObject.defineProperty(exports, \"__esModule\",
+    { value: true });\r\nconst ZEPETO_Script_1 = require(\"ZEPETO.Script\");\r\nclass
+    PlayerManager extends ZEPETO_Script_1.ZepetoScriptBehaviour {\r\n    Start()
+    {\r\n    }\r\n}\r\nexports.default = PlayerManager;\r\n//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiUGxheWVyTWFuYWdlci5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIlBsYXllck1hbmFnZXIudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7QUFBQSxpREFBcUQ7QUFFckQsTUFBcUIsYUFBYyxTQUFRLHFDQUFxQjtJQUU1RCxLQUFLO0lBRUwsQ0FBQztDQUVKO0FBTkQsZ0NBTUMifQ==","assetPath":"Assets/Scripts/Manager/PlayerManager.ts","manifest":{"properties":[],"name":"PlayerManager","description":""},"isCompiled":true}'
+  typescriptHash: 53486763b9b5e6e801a48f0a08cea220
+  onlyWriteTrigger: 0
